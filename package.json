@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "chalk": "^5.2.0"
-  },
   "devDependencies": {
     "hint": "^7.1.8",
     "stylelint": "^13.13.1",

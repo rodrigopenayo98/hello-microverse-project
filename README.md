@@ -13,7 +13,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -33,19 +32,18 @@ and styled it , by giving it a color.
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>HTML</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html.org/">HTML</a></li>
   </ul>
 </details>
 
 <details>
   <summary>CSS</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://css.com/">CSS</a></li>
   </ul>
 </details>
 
@@ -70,76 +68,35 @@ just visit my repo folder (https://github.com/rodrigopenayo98/hello-microverse-p
 In order to run this project you need:
 
 any code editor 
-but mostly use Vs code
+but mostly use Vs Code and Sublime Text
 
 ### Setup
 
 Clone this repository to your desired folder: 
-
-
- Commands:
-
-```sh
-  cd hello-microverse-project
-  https://github.com/rodrigopenayo98/hello-microverse-project.git
-```
+(https://github.com/rodrigopenayo98/hello-microverse-project.git)
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+GitHub and VS Code.
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+Linters and Git Commands.
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
+Linters
 
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-
 
 👤 **Rodrigo Penayo**
 
@@ -154,10 +111,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+-**[HTML]**
+-**[CSS]**
+-**[LINTERS]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

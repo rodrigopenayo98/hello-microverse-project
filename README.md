@@ -1,64 +1,154 @@
-<a name="readme-top"></a>
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
 
 <!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
+Example commands:
 
-Modify this file to match your project and remove sections that don't apply.
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
+### Install
 
-OPTIONAL SECTIONS:
-- FAQ
+Install this project with:
 
-After you're finished please remove all the comments and instructions!
--->
+<!--
+Example command:
 
+```sh
+  cd my-project
+  gem install
+```
+--->
 
-<!-- TABLE OF CONTENTS -->
+### Usage
 
-# 📗 Table of Contents
+To run the project, execute the following command:
 
-- [📖 About the Project](#about-project)
-- [👥 Authors](#authors)
-- [📝 License](#license)
+<!--
+Example command:
 
-<!-- PROJECT DESCRIPTION -->
+```sh
+  rails server
+```
+--->
 
-# 📖 [Hello Microverse!] <a name="Hello Microverse!"></a>
+### Run tests
 
-> This is my first project on Microverse! In which the priority is to learn everything related to Git and GitHub
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
-👤 **Rodrigo Penayo**
+
+
+👤 **Author1**
 
 - GitHub: [@rodrigopenayo98](https://github.com/rodrigopenayo98)
-- LinkedIn: [LinkedIn-rodrigo-penayo](https://www.linkedin.com/in/rodrigo-penayo-391226158/)
+- Twitter: [@rodrigopenayo98](https://twitter.com/rodrigopenayo98)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rodrigo-penayo-391226158/)
 
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-## Copyright 2021, [ROD PENAYO]
+This project is [MIT](./MIT.md) licensed.
 
-###### Please delete this line and the next one
-###### APP TYPE can be a webpage/website, a web app, a software and so on
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this [APP TYPE] and associated documentation files, to deal in the [APP TYPE] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [APP TYPE], and to permit persons to w
-
+_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -8,16 +8,15 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: 
 
-<!--
-Example commands:
+
+ Commands:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd hello-microverse-project
+  https://github.com/rodrigopenayo98/hello-microverse-project.git
 ```
---->
 
 ### Install
 
@@ -76,17 +75,12 @@ Example:
 
 
 
-👤 **Author1**
+👤 **Rodrigo Penayo**
 
 - GitHub: [@rodrigopenayo98](https://github.com/rodrigopenayo98)
 - Twitter: [@rodrigopenayo98](https://twitter.com/rodrigopenayo98)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rodrigo-penayo-391226158/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +110,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project...
+If you like this project give a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,24 +119,11 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank...
+I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
